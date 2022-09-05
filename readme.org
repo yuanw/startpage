@@ -1,0 +1,4 @@
+#+title: a browser start page written in purescript
+* reference
+- https://github.com/PrettyCoffee/yet-another-generic-startpage
+- https://mat.services/posts/static-site-with-nix-and-caddy/
